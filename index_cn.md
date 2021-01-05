@@ -1,4 +1,5 @@
 # 欢迎来到张洁的主页！
+[English Version](index.md)
 
 ---
 
@@ -78,11 +79,11 @@
 ---
 
 ## 技能 
-- 语 言： 英语（CET4/CET6）、普通话二甲      
+- 语 言： 英语（CET4/CET6）、普通话二甲 
 - 编程语言： Pyhton , C++, JAVA（简单运用）
 - 专业软件： WSL, Anaconda,Pycharm, DEV-C++, MYSQL, Eclipse, FPGA, Quartus
 - 数据库相关: MySQL, Dgraph, PDO, SQLite
-- 其他软件： Latex ,Word, Excel, VIsio, WPS, MindManager
+- 其他软件： Latex, Word, Excel, VIsio, WPS, MindManager
 
 ---
 
