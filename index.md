@@ -12,12 +12,14 @@
   </tr>
 </table>
 
+
 #  Contact Details
 
 - Telephone：15674859049 
 - Email：jie_zhang@tju.edu.cn 
 - Address：Tianjin University, No.135 Yaguan Road, Jinnan District, Tianjin, China
 
+---
 
 # Personal information
 
@@ -27,6 +29,8 @@
   - Current location: Tianjin, China
   - CSDN : www.joycez.top
   - Github : https://github.com/JoyceZ-J
+
+---
 
 
 # Education Background
@@ -38,6 +42,8 @@
 - Instructor: Wang Wenjun, Wu Nannan 
 - Research direction (Current): Anomaly detection, Network alignment
 
+---
+
 ## Hunan University (2015.09 – 2019.06)   
 - Bachelor's degree
 - Department: College of Information Science and Engineering   
@@ -47,9 +53,11 @@
     Software Design Model, Database Principle, Computer Network, Machine Learning, Data Mining
 - GPA Ranking: 3.65, 15/198
 
+---
+
   
 # Project Experience
-## (2020.12 -        )  
+## (2020.12 - )  
 **High-end talent social network project**
 - Main content: Explore and insight around the social network of innovative and entrepreneurial personnel.
 - Position: Project Management
@@ -70,6 +78,8 @@
 **Course design: Database management program: HNUSQL (C++)**
 - Main content: Simple functions of the database (addition, deletion, check, login) and visualization
 
+---
+
 # Awards
 - 2020.12 Tianjin University Academic Scholarship Second Prize 
 - 2020.09 The 2nd IKCEST "Belt and Road" International Big Data Competition Excellence Prize
@@ -78,14 +88,21 @@
 - 2018.10 Second Prize of Hunan University Comprehensive Scholarship
 - 2019.10 Tianjin University promotes class A scholarships and bursaries
 
+---
+
 # Skills 
 - Language: English (CET4/CET6), Mandarin Second Class
 - Programming language: Pyhton, C++, JAVA (simple to use)
 - Professional software: WSL, Anaconda3, Pycharm, DEV-C++, MYSQL, Eclipse, FPGA, QuartusII
 - Database related: MySQL/Dgraph/PDO/SQLite
 - Other software: Latex, Word, Excel, VIsio, WPS, MindManager
+
+---
+
 # Self-evaluation
 - Receive new knowledge quickly, have patience, take responsibility for work without delay, and have a team spirit
+
 ---      
+
 # Thanks
 Thank you for taking the time to read my resume, and I look forward to the opportunity to work with you.
