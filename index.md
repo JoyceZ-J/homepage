@@ -1,5 +1,5 @@
 # Welcome to JieZhang's homepage
-[中文版](index-cn.md)
+[中文版](index_cn.md)
 ---
 
 ##  Contact Details
