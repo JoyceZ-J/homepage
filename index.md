@@ -1,4 +1,4 @@
-## Welcaom to JieZhang's homepage
+## Welcome to JieZhang's homepage
 ![证件照](/homepage.jpg)
 <table border="0">
   <tr>
