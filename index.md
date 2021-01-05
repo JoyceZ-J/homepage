@@ -1,5 +1,5 @@
 # Welcome to JieZhang's homepage
-
+[中文版](index-cn.md)
 ---
 
 ##  Contact Details
@@ -71,10 +71,10 @@
 ## Awards
 - 2020.12 Tianjin University Academic Scholarship Second Prize 
 - 2020.09 The 2nd IKCEST "Belt and Road" International Big Data Competition Excellence Prize
-- 2016.10 Hunan University Comprehensive Scholarship Second Prize
-- 2017.10 Hunan University Comprehensive Scholarship Second Prize
-- 2018.10 Second Prize of Hunan University Comprehensive Scholarship
 - 2019.10 Tianjin University promotes class A scholarships and bursaries
+- 2018.10 Hunan University Comprehensive Scholarship First Prize
+- 2017.10 Hunan University Comprehensive Scholarship Second Prize
+- 2016.10 Hunan University Comprehensive Scholarship Second Prize
 
 ---
 
@@ -82,7 +82,7 @@
 - Language: English (CET4/CET6), Mandarin Second Class
 - Programming language: Pyhton, C++, JAVA (simple to use)
 - Professional software: WSL, Anaconda3, Pycharm, DEV-C++, MYSQL, Eclipse, FPGA, QuartusII
-- Database related: MySQL/Dgraph/PDO/SQLite
+- Database related: MySQL, Dgraph, PDO, SQLite
 - Other software: Latex, Word, Excel, VIsio, WPS, MindManager
 
 ---
