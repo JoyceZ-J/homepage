@@ -42,7 +42,6 @@
 - Instructor: Wang Wenjun, Wu Nannan 
 - Research direction (Current): Anomaly detection, Network alignment
 
----
 
 ## Hunan University (2015.09 – 2019.06)   
 - Bachelor's degree
@@ -57,24 +56,24 @@
 
   
 # Project Experience
-## (2020.12 - )  
+## 2020.12 - 
 **High-end talent social network project**
 - Main content: Explore and insight around the social network of innovative and entrepreneurial personnel.
 - Position: Project Management
 
-## (2020.06 – 2020.12)  
+## 2020.06 – 2020.12
 **Anomaly subgraph alignment across attributed  multiple networks (python)**
 - Main content: Realize the detection and alignment of anomaly subgraphs of multi-layer attributed network
 
-## (2020.02 – 2020.06)  
+## 2020.02 – 2020.06
 **Correlation and prediction of COVID-19 epidemic and intercity traffic flow in Chinese cities (python)**
 - Main content: Use the SEIR epidemic model and the least square method to construct an urban migration model to analyze and predict the status of urban migration.
 
-## (2018.12 – 2019.06)  
+## 2018.12 – 2019.06  
 **Graduation project: Yuelu Academy Smart Tour Mini Program based on WeChat (python, js)**
 - Main content: Exhibition hall positioning module based on WKNN regression location fingerprint, collection recognition module based on inception V3 model ……
 
-## (2018.06 – 2018.10)  
+## 2018.06 – 2018.10  
 **Course design: Database management program: HNUSQL (C++)**
 - Main content: Simple functions of the database (addition, deletion, check, login) and visualization
 
