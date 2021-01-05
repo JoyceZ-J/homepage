@@ -1,113 +1,80 @@
 ## Welcaom to JieZhang's homepage
-
-![图片描述](图片链接)
 ![证件照](/homepage.jpg)
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/homepage.jpg" width="100%">      % 插入证件照代码
+    <td width="95%">
+      <h1>BASIC MATERIALS:</h1>
+      <p><b>Name: Jie Zhang</b></p>
+      <p><b>Education: Master's degree</b></p>
+      <p><b>Research direction: Anomaly detection</b></p>
+      <p><b>Email：jie_zhang@tju.edu.cn </b></p>
     </td>
   </tr>
 </table>
-# 联系方式
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+#  Contact Details
 
-- 手机：135.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
-- Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
-- QQ/微信号：6...（提供一个通过网络可以联系到你的方式）
-
-
-# 个人信息
-
- - 冷熊/男/1990 
- - 本科/北极大学计算机系 
- - 工作年限：3年
- - 微博：[@Easy](http://weibo.com/easy) （如果没有技术相关内容，也可以不放）
- - 技术博客：http://old.ftqq.com ( 使用GitHub Host的Big较高  )
- - Github：http://github.com/easychen ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
-
- - 期望职位：PHP高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
+- Telephone：15674859049 
+- Email：jie_zhang@tju.edu.cn 
+- Address：Tianjin University, No.135 Yaguan Road, Jinnan District, Tianjin, China
 
 
-# 工作经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+# Personal information
 
-## ABC公司 （ 2012年9月 ~ 2014年9月 ）
-
-### DEF项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
-### GHI项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+  - Name: Jie Zhang
+  - Gender: Female
+  - Date of Birth: 1996.12.28
+  - Current location: Tianjin, China
+  - CSDN : www.joycez.top
+  - Github : https://github.com/JoyceZ-J
 
 
-### 其他项目
+# Education Background
+## Tianjin University (2019.09 – 2022.01)   Department of Intelligence and Computing   Computer Technology
+###  Master's degree
+###   Laboratory: Smart City and Big Data 
+###   Instructor: Wang Wenjun, Wu Nannan 
+###   Research direction (Current): Anomaly detection, Network alignment
 
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+## Hunan University (2015.09 – 2019.06)   College of Information Science and Engineering   Department of Computer Science and Technology
+###   Bachelor's degree
+###   Major courses: Advanced Mathematics, Discrete Mathematics, Data Structure, Operating System, Compiler Principle, Introduction to Artificial Intelligence, Software Design Model, Database Principle, Computer Network, Machine Learning, Data Mining
+###   GPA Ranking: 3.65, 15/198
 
   
-## JKL公司 （ 2010年3月 ~ 2012年8月 ）
+# Project Experience
+## High-end talent social network project  (2020.12-)  
+### Main content: Explore and insight around the social network of innovative and entrepreneurial personnel.
+### Position: Project Management
 
-### MNO项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+## Anomaly subgraph alignment across attributed  multiple networks (python)  (2020.06 – 2020.12)  
+### Main content: Realize the detection and alignment of anomaly subgraphs of multi-layer attributed network
 
+## Correlation and prediction of COVID-19 epidemic and intercity traffic flow in Chinese cities (python) (2020.02 – 2020.06)  
+### Main content: Use the SEIR epidemic model and the least square method to construct an urban migration model to analyze and predict the status of urban migration.
 
-### PQR项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+## Graduation project: Yuelu Academy Smart Tour Mini Program based on WeChat (python, js) (2018.12 – 2019.06)  
+### Main content: Exhibition hall positioning module based on WKNN regression location fingerprint, collection recognition module based on inception V3 model ……
 
+## Course design: Database management program: HNUSQL (C++) (2018.06 – 2018.10)  
+### Main content: Simple functions of the database (addition, deletion, check, login) and visualization
 
-### 其他项目
+# Awards
+- 2020.12 Tianjin University Academic Scholarship Second Prize 
+- 2020.09 The 2nd IKCEST "Belt and Road" International Big Data Competition Excellence Prize
+- 2016.10 Hunan University Comprehensive Scholarship Second Prize
+- 2017.10 Hunan University Comprehensive Scholarship Second Prize
+- 2018.10 Second Prize of Hunan University Comprehensive Scholarship
+- 2019.10 Tianjin University promotes class A scholarships and bursaries
 
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
-  
-  
-# 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
-
-## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
-
-  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
-
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://ftqq.com)
-  - 9月公司内部分享：[云计算的前生今世](http://ftqq.com)
-    
-    
-# 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-      
+# Skills 
+- Language: English (CET4/CET6), Mandarin Second Class
+- Programming language: Pyhton, C++, JAVA (simple to use)
+- Professional software: WSL, Anaconda3, Pycharm, DEV-C++, MYSQL, Eclipse, FPGA, QuartusII
+- Database related: MySQL/Dgraph/PDO/SQLite
+- Other software: Latex, Word, Excel, VIsio, WPS, MindManager
+# Self-evaluation
+- Receive new knowledge quickly, have patience, take responsibility for work without delay, and have a team spirit
 ---      
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+# Thanks
+Thank you for taking the time to read my resume, and I look forward to the opportunity to work with you.
