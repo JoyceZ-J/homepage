@@ -1,19 +1,8 @@
-## Welcome to JieZhang's homepage
-![证件照](/homepage.jpg)
-<table border="0">
-  <tr>
-    <td width="95%">
-      <h1>BASIC MATERIALS:</h1>
-      <p><b>Name: Jie Zhang</b></p>
-      <p><b>Education: Master's degree</b></p>
-      <p><b>Research direction: Anomaly detection</b></p>
-      <p><b>Email：jie_zhang@tju.edu.cn </b></p>
-    </td>
-  </tr>
-</table>
+# Welcome to JieZhang's homepage
 
+---
 
-#  Contact Details
+##  Contact Details
 
 - Telephone：15674859049 
 - Email：jie_zhang@tju.edu.cn 
@@ -21,7 +10,7 @@
 
 ---
 
-# Personal information
+## Personal information
 
   - Name: Jie Zhang
   - Gender: Female
@@ -33,8 +22,8 @@
 ---
 
 
-# Education Background
-## Tianjin University (2019.09 – 2022.01)   
+## Education Background
+### Tianjin University (2019.09 – 2022.01)   
 - Master's degree
 - Department: Department of Intelligence and Computing   
 - Major: Computer Technology
@@ -43,7 +32,7 @@
 - Research direction (Current): Anomaly detection, Network alignment
 
 
-## Hunan University (2015.09 – 2019.06)   
+### Hunan University (2015.09 – 2019.06)   
 - Bachelor's degree
 - Department: College of Information Science and Engineering   
 - Major: Computer Science and Technology
@@ -55,31 +44,31 @@
 ---
 
   
-# Project Experience
-## 2020.12 - 
+## Project Experience
+### 2020.12 - 
 **High-end talent social network project**
 - Main content: Explore and insight around the social network of innovative and entrepreneurial personnel.
 - Position: Project Management
 
-## 2020.06 – 2020.12
+### 2020.06 – 2020.12
 **Anomaly subgraph alignment across attributed  multiple networks (python)**
 - Main content: Realize the detection and alignment of anomaly subgraphs of multi-layer attributed network
 
-## 2020.02 – 2020.06
+### 2020.02 – 2020.06
 **Correlation and prediction of COVID-19 epidemic and intercity traffic flow in Chinese cities (python)**
 - Main content: Use the SEIR epidemic model and the least square method to construct an urban migration model to analyze and predict the status of urban migration.
 
-## 2018.12 – 2019.06  
+### 2018.12 – 2019.06  
 **Graduation project: Yuelu Academy Smart Tour Mini Program based on WeChat (python, js)**
 - Main content: Exhibition hall positioning module based on WKNN regression location fingerprint, collection recognition module based on inception V3 model ……
 
-## 2018.06 – 2018.10  
+### 2018.06 – 2018.10  
 **Course design: Database management program: HNUSQL (C++)**
 - Main content: Simple functions of the database (addition, deletion, check, login) and visualization
 
 ---
 
-# Awards
+## Awards
 - 2020.12 Tianjin University Academic Scholarship Second Prize 
 - 2020.09 The 2nd IKCEST "Belt and Road" International Big Data Competition Excellence Prize
 - 2016.10 Hunan University Comprehensive Scholarship Second Prize
@@ -89,7 +78,7 @@
 
 ---
 
-# Skills 
+## Skills 
 - Language: English (CET4/CET6), Mandarin Second Class
 - Programming language: Pyhton, C++, JAVA (simple to use)
 - Professional software: WSL, Anaconda3, Pycharm, DEV-C++, MYSQL, Eclipse, FPGA, QuartusII
@@ -98,10 +87,10 @@
 
 ---
 
-# Self-evaluation
+## Self-evaluation
 - Receive new knowledge quickly, have patience, take responsibility for work without delay, and have a team spirit
 
 ---      
 
-# Thanks
+## Thanks
 Thank you for taking the time to read my resume, and I look forward to the opportunity to work with you.
